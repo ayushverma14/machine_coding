@@ -1,0 +1,16 @@
+create_parking_lot PR1234 2 6
+display free_count Cars
+display free_count Bikes
+display free_count Buses
+display free_slots Cars
+display free_slots Bikes
+display free_slots Buses
+display occupied_slots Cars
+display occupied_slots Bikes
+display occupied_slots Buses
+park_vehicle Cars KA-01-DB-1234 black
+park_vehicle Cars KA-02-CB-1334 red
+park_vehicle Bikes KA-01-DB-1133 black
+park_vehicle Buses KA-05-HJ-8432 white
+park_vehicle Cars WB-45-HO-9032 white
+park_vehicle Cars KA-01-DF-8230 black
